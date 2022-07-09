@@ -1,4 +1,4 @@
-# arvore-decisao-v2
+# arvore-decisao-parte2
 O objetivo desta tarefa é realizar um conjunto de experimentos usando o método de árvore de decisão e um dataset escolhido no site kaggle (https://www.kaggle.com/datasets). A base deve ter mais de 500 instâncias.
 
 
@@ -14,6 +14,13 @@ Deve ser entregue no classroom um relatório contendo as seguintes informações
 
 Os códigos usados nos seus experimentos também devem ser entregues.
 
+# Instalar dependencias, jupyter notebook e todas as configurações necessarias para executar o projeto. 
+Antes, sera necessario ter instalado o python3 e o pip(que vem dentro da instalação do python3)
+
+Execute o comando dentro da pasta do projeto.
+
+pip install -r requirements.txt
+
 
 # Configuração Google colab para local runtime 
 
@@ -27,7 +34,9 @@ Step 2: Install and enable the jupyter_http_over_ws jupyter extension (one-time)
 The jupyter_http_over_ws extension is authored by the Colaboratory team and available on GitHub.
 
 pip install jupyter_http_over_ws
+
 jupyter serverextension enable --py jupyter_http_over_ws
+
 Step 3: Start server and authenticate
 New notebook servers are started normally, though you will need to set a flag to explicitly trust WebSocket connections from the Colaboratory frontend.
 
@@ -39,4 +48,5 @@ Step 4: Connect to the local runtime
 In Colaboratory, click the "Connect" button and select "Connect to local runtime...". Enter the URL from the previous step in the dialog that appears and click the "Connect" button. After this, you should now be connected to your local runtime.
 
 # Utilize o github como repositorio e para controle de versão do notebook diretamente no front end do google colab
+![Capturar](https://user-images.githubusercontent.com/21993550/178114681-d810653b-ca8f-4e9d-a80b-978f3c3e8689.PNG)
 
