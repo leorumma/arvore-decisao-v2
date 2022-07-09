@@ -27,7 +27,9 @@ Step 2: Install and enable the jupyter_http_over_ws jupyter extension (one-time)
 The jupyter_http_over_ws extension is authored by the Colaboratory team and available on GitHub.
 
 pip install jupyter_http_over_ws
+
 jupyter serverextension enable --py jupyter_http_over_ws
+
 Step 3: Start server and authenticate
 New notebook servers are started normally, though you will need to set a flag to explicitly trust WebSocket connections from the Colaboratory frontend.
 
