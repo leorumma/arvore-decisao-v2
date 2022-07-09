@@ -37,3 +37,6 @@ Once the server has started, it will print a message with the initial backend UR
 
 Step 4: Connect to the local runtime
 In Colaboratory, click the "Connect" button and select "Connect to local runtime...". Enter the URL from the previous step in the dialog that appears and click the "Connect" button. After this, you should now be connected to your local runtime.
+
+# Utilize o github como repositorio e para controle de versão do notebook diretamente no front end do google colab
+
