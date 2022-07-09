@@ -14,6 +14,13 @@ Deve ser entregue no classroom um relatório contendo as seguintes informações
 
 Os códigos usados nos seus experimentos também devem ser entregues.
 
+#Instalar dependencias, jupyter notebook e todas as configurações necessarias para executar o projeto. 
+Antes, sera necessario ter instalado o python3 e o pip(que vem dentro da instalação do python3)
+
+Execute o comando dentro da pasta do projeto.
+
+pip install -r requirements.txt
+
 
 # Configuração Google colab para local runtime 
 
