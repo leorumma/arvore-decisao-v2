@@ -1,6 +1,9 @@
 # arvore-decisao-parte2
 O objetivo desta tarefa é realizar um conjunto de experimentos usando o método de árvore de decisão e um dataset escolhido no site kaggle (https://www.kaggle.com/datasets). A base deve ter mais de 500 instâncias.
 
+O dataset escolhi foi: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+link: https://drive.google.com/uc?id=1JCdSHO1lHj06qpV92tigrovhzJQbcr1h&confirm=t
+
 
 Deve ser entregue no classroom um relatório contendo as seguintes informações:
 
