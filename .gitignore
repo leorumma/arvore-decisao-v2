@@ -128,5 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#idea
+.idea
+
 #dataset
 Online_Payments_Fraud_Detection_Dataset.csv
+salary.csv
