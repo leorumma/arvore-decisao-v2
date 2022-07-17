@@ -134,3 +134,4 @@ dmypy.json
 #dataset
 Online_Payments_Fraud_Detection_Dataset.csv
 salary.csv
+*.png
